@@ -1,5 +1,6 @@
 # ghifarul azhar #
 # 15200234 #
+# QUEUE #
 
 print("//=========================================================")
 print("//                 Data Pembeli Baju                       ")
